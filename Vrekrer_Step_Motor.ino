@@ -94,7 +94,7 @@ void delay_us(long delay_time) {
 /* SCPI FUNCTIONS */
 
 void Identify(SCPI_C commands, SCPI_P parameters, Stream &interface) {
-  String IDN = F("PUC_Rio,StepPL,SN00,V.0.1\n");
+  String IDN = F("Vrekrer,StepMotor,SN00,V.0.1\n");
   interface.print(IDN);
 }
 
