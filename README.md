@@ -1,2 +1,2 @@
-# Arduino_Step_Motor
-Arduino SCPI step motor controler
+# Vrekrer_Step_Motor
+SCPI step motor controler for Arduino
